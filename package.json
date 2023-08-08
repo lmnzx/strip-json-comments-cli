@@ -13,6 +13,7 @@
 	"type": "module",
 	"bin": {
 		"strip-json-comments": "./cli.js"
+		// comment
 	},
 	"engines": {
 		"node": ">=16"
